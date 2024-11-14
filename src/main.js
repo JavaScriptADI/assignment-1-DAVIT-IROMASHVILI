@@ -9,7 +9,7 @@ console.log(21 * 21);
     // 3
 let name = "davit";
 
-console.log("Hello " + name)
+console.log("Hello " + name);
 
     // 4
 let string1 = "lorem";
