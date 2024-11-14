@@ -12,7 +12,7 @@ let name = "davit";
 console.log("Hello " + name);
 
     // 4
-let string1 = "lorem";
-let string2 = "ipsum";
+let string1 = "Lorem";
+let string2 = "Ipsum";
 
 console.log(string1 + " " + string2);
